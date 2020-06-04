@@ -256,36 +256,36 @@ ion-icon {
 
 @keyframes spin {
   0% {
-    content: "biar sehat";
+    content: "sehat";
   }
   10% {
-    content: "Terraform";
+    content: "bervitamin";
   }
   20% {
-    content: "Java";
+    content: "bergizi";
   }
   30% {
-    content: "Python";
+    content: "nikmat";
   }
   40% {
-    content: "Node";
+    content: "enak";
   }
   50% {
-    content: "JavaScript";
+    content: "lezat";
   }
   60% {
-    content: "PHP";
+    content: "sedap";
   }
   70% {
-    content: "VB.Net";
+    content: "mantap";
   }
   80% {
-    content: "React";
+    content: "maknyos";
   }
   90% {
-    content: "C";
+    content: "yummy";
   }
   100% {
-    content: "Bash";
+    content: "mantul";
   }
 }
